@@ -17,7 +17,7 @@ sudo apt -y install php7.4
 
 echo installing some importent PHP extensions!
 # install php extensions
-sudo apt-get install php7.4-mysql php7.4-bcmath php7.4-bz2 php7.4-intl php7.4-gd php7.4-mbstring php7.4-zip php7.4-apcu php7.4-uploadprogress php7.4-imagick php7.4-gettext
+sudo apt-get install php7.4-mysql php7.4-bcmath php7.4-bz2 php7.4-intl php7.4-gd php7.4-mbstring php7.4-zip php7.4-apcu php7.4-uploadprogress php7.4-imagick php7.4-mcrypt php7.4-gettext
 
 echo installing mysql-server latest!
 # install mysql latest
